@@ -1,15 +1,12 @@
 # 3D Multi-Language Website - Printer & Common Service Center
 
-## 🏢 Business Information
+##  Business Information
 **Center Name:** आपले सरकार सेवा केंद्र - स्वरा झेरॉक्स
 
 **Location:** Kolose, Taluka Mahad, District Raigad, Maharashtra, India
 
-**Contact:**
-- 📞 Mobile/WhatsApp: 9922393331
-- 📧 Email: girishgaikar831@gmail.com
 
-## 🌐 Website Features
+##  Website Features
 
 ### Multi-Language Support
 - **Marathi** (Primary - Default)
@@ -18,14 +15,14 @@
 - Language switcher in top-right corner
 - All content dynamically translates
 
-### 🎨 Design Elements
+### Design Elements
 - **3D Effects:** Depth shadows, layered sections, perspective transforms
 - **Glassmorphism:** Frosted glass effect on cards and overlays
 - **Animations:** Smooth transitions, parallax scrolling, hover effects
 - **Modern UI:** Government-authorized look with creative flair
 - **Responsive:** Mobile-first design, works on all devices
 
-### 📱 Interactive Features
+###  Interactive Features
 1. **Floating Action Buttons:**
    - WhatsApp Chat (green gradient)
    - Phone Call (orange gradient)
@@ -47,7 +44,7 @@
    - Overlay effects
    - Responsive grid layout
 
-## 🖨️ Services Offered
+##  Services Offered
 
 ### Government Services (24 services)
 - Aadhaar Enrollment & Update
@@ -67,7 +64,7 @@
 - Lamination
 - Scanning
 
-## 🏅 Authorized By
+##  Authorized By
 - Digital India
 - CSC (Common Service Center)
 - UIDAI (Aadhaar Permanent Enrollment Center)
@@ -75,7 +72,7 @@
 - Adi Karmayogi Abhiyan
 - MahaIT
 
-## 📂 File Structure
+##  File Structure
 ```
 printer/
 ├── index.html          # Main HTML structure
@@ -84,7 +81,7 @@ printer/
 └── README.md           # This file
 ```
 
-## 🚀 How to Use
+## How to Use
 
 ### Option 1: Open Directly
 1. Open `index.html` in any modern web browser
@@ -105,7 +102,7 @@ php -S localhost:8000
 
 Then visit: `http://localhost:8000`
 
-## 🎯 Key Sections
+##  Key Sections
 
 1. **Hero Section** - Eye-catching intro with badges and CTA buttons
 2. **About Us** - 4 key features in 3D cards
@@ -115,20 +112,20 @@ Then visit: `http://localhost:8000`
 6. **Contact** - Contact cards + Google Maps integration
 7. **Footer** - Quick links, services, and contact info
 
-## 🎨 Color Scheme
+##  Color Scheme
 - **Primary:** #FF6B35 (Orange)
 - **Secondary:** #004E89 (Blue)
 - **Accent:** #F77F00 (Amber)
 - **Success:** #06D6A0 (Teal)
 - **Gradients:** Purple, Pink, Blue combinations
 
-## 📱 Responsive Breakpoints
+##  Responsive Breakpoints
 - Desktop: 1200px+
 - Tablet: 768px - 1199px
 - Mobile: < 768px
 - Small Mobile: < 480px
 
-## ✨ Special Features
+##  Special Features
 
 ### 3D Effects
 - Card perspective transforms
@@ -150,7 +147,7 @@ Then visit: `http://localhost:8000`
 - Alt text for images
 - Screen reader friendly
 
-## 🔧 Browser Compatibility
+##  Browser Compatibility
 - Chrome (Recommended)
 - Firefox
 - Safari
@@ -159,16 +156,14 @@ Then visit: `http://localhost:8000`
 
 **Minimum:** Modern browsers with CSS Grid and Flexbox support
 
-## 📞 Support Contact
+##  Support Contact
 For any queries or customization requests:
 - **Call/WhatsApp:** 9922393331
 - **Email:** girishgaikar831@gmail.com
 
-## 📄 License
+##  License
 © 2026 Aaple Sarkar Seva Kendra. All Rights Reserved.
 
 ---
 
-**Developed with ❤️ for Kolose, Mahad, Raigad Community**
 
-**Digital India | CSC | UIDAI Authorized**
